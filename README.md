@@ -1,6 +1,25 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+Hi 👋, I'm Harsh Dubey  
 
+📊 A Data Science & Analytics enthusiast with a strong interest in working with data  
+🐍 I enjoy analyzing datasets, finding patterns, and building insights using Python  
+🌱 Currently focused on improving my skills in Data Analysis, SQL, and core Data Science concepts  
+🌐 I also experiment with Web Development occasionally to better understand how data-driven apps work  
+🤝 Open to collaborating on Data Analytics / Data Science projects  
+💬 Ask me about Python, SQL, Pandas, NumPy, or data visualization  
+⚡ Fun fact: I prefer making sense of messy data more than designing UI 😄  
+
+🔭 Primary Focus:
+- Data Analysis & Data Science projects  
+- Working with real-world datasets  
+- Improving problem-solving using Python  
+
+🌐 Secondary / Exploration:
+- Basic Web Applications (for learning & experimentation)  
+- Connecting data logic with simple web interfaces  
+
+🤝 Looking for help with:
+- Machine Learning fundamentals  
+- Writing more optimized and clean Python code  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harshdubey01/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hdb36613@gmail.com) 
@@ -12,4 +31,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Harsh-Dubey0&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Dubey0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+🧠 Quote I live by:
+"Learning never exhausts the mind."
+
+⭐ If you like my work, consider giving a star!
