@@ -81,7 +81,5 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harsh-Dubey0&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+
 <p align="center"><i>"Data is only useful when it tells a story — and I build those stories."</i></p>
